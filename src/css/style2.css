@@ -1,0 +1,179 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+ul{
+	list-style: none;
+}
+
+
+img{
+	max-width: 100%;
+}
+
+
+h5{
+	font-size: 30px;
+	text-align: left;
+	letter-spacing: 0.3px;
+	line-height: 40px;
+	color: #707070;
+	border: 1px #707070;
+	margin: 10px;
+}
+
+nav li{
+	margin: 30px;
+}
+
+
+nav a{
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 2px;
+	line-height: 27px;
+	color: #707070;
+	border: 1px;
+	margin: 30px;
+	
+}
+
+/* here das große Foto direkt im section */
+section img{
+	width: 100%;
+}
+
+
+section{
+	margin: 30px 0px;
+	padding: 20px;
+}
+
+
+article p{
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 0px;
+	line-height: 24px;
+	color: #707070;
+	margin: 80px;
+	margin: 20px 0px;
+}
+
+article >a {
+	text-align: right;
+}
+
+
+
+article > img{
+	max-width: 1640px;
+	width: 483px;
+	height: 282px;
+	background: transparent;
+	object-fit: cover;
+}
+
+article{
+	top: 1081px;
+	left: 140px;
+	width: 483px;
+	height: 563px;
+
+
+	color: #FFFFFF;
+	box-shadow: #00000029;
+
+	padding: 10px;
+	margin: 30px 0px;
+	background: transparent;
+
+	box-sizing: border-box;
+}
+
+
+
+footer{
+	max-width: 1640px;
+	width: 100%;
+	height: 207px;
+	background: #2E2E2E;
+
+}
+
+footer a{
+	font-size: 13px;
+	text-align: left;
+	letter-spacing: 0,13px;
+	line-height: 17px;
+	color: #F2F2F2;
+}
+
+footer_pic{
+	background: transparent;
+	opacity: 1px;
+}
+
+.footer_bigger{
+	font-size: 19px;
+	text-align: left;
+	letter-spacing: 0,19px;
+	line-height: 17px;
+	color: #FFFFFF;
+}
+
+
+
+.article_readMore{
+	font-size: 24px;
+	text-align: left;
+	letter-spacing: 0px;
+	line-height: 32px;
+	color: #707070;
+	border: 1px #707070;
+}
+
+.div_class{
+	font-size: 30px;
+	text-align: left;
+	letter-spacing: 0.3px;
+	line-height: 40px;
+	color: #707070;
+	border: 1px #707070;
+}
+
+.section_titel{
+	font-size: 40px;
+	text-align: left;
+	letter-spacing: 0.4px;
+	line-height: 53px;
+	color: #707070;
+	border: 1px #707070;
+}
+
+.logo{
+	width: 200px;
+	height: 200px;
+	object-fit: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
