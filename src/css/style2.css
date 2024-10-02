@@ -31,7 +31,6 @@ h3{
 
 
 .container{
-	background: blue;
 	max-width: 1640px;
 	width: 90%;
 	margin: 0 auto;
@@ -81,12 +80,12 @@ nav a{
 /* satitao artiklebi */
 .articel_box{
 	display: inline-block;
-	width: 25%;
+	width: 30%;
 	line-height: 29%;
 	color: #FFFFFF;
-	box-shadow: #00000029;
+	box-shadow:0px 3px 6px #00000029;
 	padding: 5px;
-	margin: 30px 0px;
+	margin: 30px 10px;
 
 }
 
@@ -105,7 +104,6 @@ section img{
 
 
 section article{
-	background: red;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -156,6 +154,8 @@ article > img{
 	line-height: 40px;
 	color: #707070;
 	border: 1px #707070;
+	margin: 20px;
+
 }
 
 /* sataurebi 'პოპულარული სტატიები' da 'ბოლოს დამატებული'*/
@@ -165,10 +165,9 @@ section h1{
 	line-height: 53px;
 	color: #707070;
 	border: 1px #707070;
+	margin-top: 40px;
+	margin-block: 20px;
 }
-
-
-
 
 
 
