@@ -31,6 +31,7 @@ h3{
 
 
 .container{
+	background: blue;
 	max-width: 1640px;
 	width: 90%;
 	margin: 0 auto;
@@ -44,6 +45,7 @@ nav, .logo{
 	vertical-align: middle;
 }
 
+/* hier nav textebi */
 nav{
 	width: 75%;
 	text-align: right;
@@ -79,7 +81,7 @@ nav a{
 /* satitao artiklebi */
 .articel_box{
 	display: inline-block;
-	width: 33%;
+	width: 25%;
 	line-height: 29%;
 	color: #FFFFFF;
 	box-shadow: #00000029;
@@ -102,8 +104,10 @@ section img{
 }
 
 
-article{
-	text-align: center;
+section article{
+	background: red;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 
