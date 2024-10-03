@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'ArchyEDT-Thin';
+    src: url('../fonts/archyedt-thin-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/archyedt-thin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/archyedt-thin-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/archyedt-thin-webfont.svg#archyedt-thinregular') format('svg'); /* Legacy iOS */
+}
